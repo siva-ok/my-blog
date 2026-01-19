@@ -4,4 +4,4 @@ Welcome to my blog.
 
 ## Posts
 
-- [My first blog](first-blog.md)
+- [First blog](first-blog.md)
